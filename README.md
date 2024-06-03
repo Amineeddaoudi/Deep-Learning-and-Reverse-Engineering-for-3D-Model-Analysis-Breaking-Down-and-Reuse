@@ -16,3 +16,17 @@ Ultimately, the integration of pre-trained deep learning models at various stage
 modeling workflow, especially in the feature extraction step, is poised to enhance the 
 transformation of real-world objects into CAD-compatible formats, ensuring the creation of 
 accurate and high-quality 3D models for diverse and demanding applications.
+
+The first project ==> This code essentially demonstrates the utilization of a VAE to generate new shapes based on 
+learned features from a dataset, and it saves these generated shapes as STL files for further 
+analysis or use. Adjustments to parameters and model architecture can tailor the generation 
+process according to specific needs or datasets.
+
+
+The second project ==> My 2nd script demonstrates a workflow for generating and visualizing 3D point clouds and 
+reconstructed surfaces from 3D mesh data. The code utilizes various Python libraries to 
+handle mesh processing, point cloud generation, and 3D visualization. The primary goal is to 
+showcase the process of sampling points on a 3D mesh, creating a point cloud, and 
+reconstructing a surface from that point cloud. Additionally, it provides examples of exporting 
+the generated point cloud and reconstructed surface in widely used formats like PLY and 
+STL.
